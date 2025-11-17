@@ -59,6 +59,9 @@ To test the application, follow these steps:
 2. **Integration Tests**: Run `npm run test:integration` or `yarn test:integration` to execute integration tests.
 3. **End-to-End Tests**: Run `npm run test:e2e` or `yarn test:e2e` to execute end-to-end tests.
 
+## 🚀 Deployed Link  
+[👉 Visit syntaxswap](https://syntaxswap.netlify.app/)
+
 👤 Author
 ----------
 SyntaxSwap is maintained by [Suryank Malik](https://srynkdev.netlify.app/).
